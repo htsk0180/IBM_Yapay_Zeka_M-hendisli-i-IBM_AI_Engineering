@@ -1,2 +1,5 @@
 # IBM_Yapay_Zeka_Mühendisliği-IBM_AI_Engineering
  
+Yapay zeka (AI), tüm sektörlerde devrim yaratıyor ve farklı sektörlerdeki şirketlerin karar vermek için verileri kullanma şeklini değiştiriyor. Rekabetçi kalabilmek için kuruluşların, işletmeleri için veriye dayalı eyleme geçirilebilir zeka sağlamak üzere makine öğrenimi algoritmaları ve derin öğrenme sinir ağları gibi en son yöntemleri kullanan nitelikli yapay zeka mühendislerine ihtiyacı vardır. Bu 6 kurs, sizi bir AI veya ML mühendisi olarak kariyerinizde başarılı olmanız için ihtiyaç duyduğunuz araçlarla donatmak için tasarlanmıştır.  
+
+Python gibi programlama dillerini kullanarak denetimli ve denetimsiz öğrenme de dahil olmak üzere makine öğrenimi ve derin öğrenmenin temel kavramlarında ustalaşacaksınız. SciPy, ScikitLearn, Keras, PyTorch ve Tensorflow gibi popüler makine öğrenimi ve derin öğrenme kitaplıklarını nesne tanıma, bilgisayarla görme, görüntü ve video işleme, metin analitiği, doğal dil işleme (NLP), öneri sistemleri içeren sektör sorunlarına uygulayacaksınız. 
